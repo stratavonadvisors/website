@@ -8,7 +8,7 @@
   Most text on the page is populated from this object.
 */
 const SITE_CONFIG = {
-  businessName: "Stratavon Advisors,
+  businessName: "Stratavon Advisors",
   logoFileName: "assets/logo/company-logo.png",
   headline: "Clarity for Complex Business Decisions",
   subheadline:
